@@ -87,7 +87,7 @@ fun MovieDetails() {
 
     Column(modifier = Modifier.padding(16.dp)) {
         MovieTitle("Arcane")
-        MovieInfoRow("2023", qualities)
+        MovieInfoRow("2021", qualities)
         Spacer(modifier = Modifier.height(8.dp))
         MovieButtons()
         Spacer(modifier = Modifier.height(8.dp))
